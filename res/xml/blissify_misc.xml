@@ -36,16 +36,15 @@
         android:persistent="true" />
 
     <PreferenceCategory
-        android:key="aggressive_battery"
-        android:title="@string/aggressive_battery_title">
+             android:key="aggressive_battery"
+             android:title="@string/aggressive_battery_title">
 
-     <com.bliss.support.preferences.GlobalSettingSwitchPreference
-         android:key="aggressive_idle_enabled"
-         android:title="@string/aggressive_idle_title"
-         android:summary="@string/aggressive_idle_summary"
-         android:defaultValue="false"
-         android:dependency="aggressive_battery_saver" />
-     </PreferenceCategory>
+         <com.bliss.support.preferences.GlobalSettingSwitchPreference
+                 android:key="aggressive_idle_enabled"
+                 android:title="@string/aggressive_idle_title"
+                 android:summary="@string/aggressive_idle_summary"
+                 android:defaultValue="false" />
+    </PreferenceCategory>
 
 
 </PreferenceScreen>
