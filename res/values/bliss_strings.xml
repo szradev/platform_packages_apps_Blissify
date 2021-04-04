@@ -253,4 +253,16 @@
     <string name="status_bar_icons_title">Status bar icons</string>
     <string name="status_bar_system_icons_title">System icons</string>
     <string name="status_bar_system_icons_summary">Control which status bar icons are shown</string>
+
+    <!-- Aggressive battery -->
+    <string name="aggressive_battery_title">Aggressive Battery</string>
+    <string name="aggressive_idle_title">Aggressive Idle</string>
+    <string name="aggressive_idle_summary">Enter device idle more frequently and wake up less</string>
+    <string name="aggressive_standby_title">Aggressive Standby</string>
+    <string name="aggressive_standby_summary">Restrict apps from running in the background</string>
+    <string name="aggressive_battery_saver_title">Auto-enable on battery saver</string>
+    <string name="aggressive_battery_saver_summary">Enable Aggressive Battery automatically when using battery saver</string>
+
+
+
 </resources>
