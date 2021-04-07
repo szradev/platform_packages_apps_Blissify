@@ -407,7 +407,9 @@
     <string name="sensor_block_title">Sensor block per-package</string>
     <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
 
-    <!-- Show gesture pill -->
-    <string name="show_gestures_navbar_switch_title">Show pill</string>
-    <string name="show_gestures_navbar_switch_summary">Show gestures navbar</string>
+
+    <!-- Navigation bar hint -->
+    <string name="show_navbar_hint_title">Navigation hint</string>
+    <string name="show_navbar_hint_summary">Show navigation hint bar at the bottom of the screen</string>
+    
 </resources>

@@ -58,10 +58,10 @@
     </PreferenceCategory>
 
 
-    <com.bliss.support.preference.SecureSettingSwitchPreference
+    <com.bliss.support.preference.SystemSettingSwitchPreference
         android:key="navigation_bar_hint"
-        android:title="@string/show_gestures_navbar_switch_title"
-        android:summary="@string/show_gestures_navbar_switch_summary"
+        android:title="@string/show_navbar_hint_title"
+        android:summary="@string/show_navbar_hint_summary"
         android:defaultValue="true" />
 
 
