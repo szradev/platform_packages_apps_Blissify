@@ -370,10 +370,10 @@
 <string name="fod_miui_rhythm_recognizing_anim"> MIUI Rythm </string>
 <string name="fod_op_cosmos_recognizing_anim"> Cosmos </string>
 <string name="fod_op_mclaren_recognizing_anim"> Maclaren </string>
-<string name="fod_op_stripe_recognizing_anim"> Osstripe </string>
-<string name="fod_op_wave_recognizing_anim"> op wave </string>
-<string name="fod_pureview_dna_recognizing_anim"> dna </string>
-<string name="fod_pureview_future_recognizing_anim"> future </string>
-<string name="fod_pureview_halo_ring_recognizing_anim"> halo ring </string>
-<string name="fod_pureview_molecular_recognizing_anim"> molecular </string>
+<string name="fod_op_stripe_recognizing_anim"> OS Stripe </string>
+<string name="fod_op_wave_recognizing_anim"> Op Wave </string>
+<string name="fod_pureview_dna_recognizing_anim"> Dna </string>
+<string name="fod_pureview_future_recognizing_anim"> Future </string>
+<string name="fod_pureview_halo_ring_recognizing_anim"> Halo ring </string>
+<string name="fod_pureview_molecular_recognizing_anim"> Molecular </string>
 </resources>
