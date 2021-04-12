@@ -335,10 +335,6 @@
     <string name="show_navbar_hint_summary">Show navigation hint bar at the bottom of the screen</string>
 
     <!-- FOD animations -->
-    <string name="fod_recog_animation">FOD recognizing animation</string>
-    <string name="fod_recog_animation_summary">Shows an animation while reading your finger</string>
-    <string name="fod_recog_animation_picker_title">FOD recognizing animation picker</string>
-    <string name="fod_recog_animation_picker_summary">Choose your favorite recognizing animation</string>
     <string name="fod_recog_animation">Recognizing animation</string>
     <string name="fod_recog_animation_summary">Shows an animation while reading your finger</string>
     <string name="fod_recog_animation_picker">Animation style</string>
