@@ -456,6 +456,8 @@
 <string name="fod_pureview_molecular_recognizing_anim"> Molecular </string>
 <string name="screen_off_fod_title"> ScreenOff FOD </string>
 <string name="screen_off_fod_summary"> ScreenOff FOD </string>
+<string name="screenshot_sound_title"> Screenshot sound </string>
+<string name="screenshot_sound_summary"> Screenshot sound on/off </string>
 
 
 </resources>

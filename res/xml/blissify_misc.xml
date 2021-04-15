@@ -41,6 +41,13 @@
             android:summary="@string/show_navbar_hint_summary"
             android:defaultValue="true" />
 
+    <com.bliss.support.preferences.SecureSettingSwitchPreference
+            android:key="screenshot_sound"
+            android:title="@string/screenshot_sound_title"
+            android:summary="@string/screenshot_sound_summary"
+            android:defaultValue="true" />
+
+
     <PreferenceCategory
              android:key="aggressive_battery"
              android:title="@string/aggressive_battery_title">
