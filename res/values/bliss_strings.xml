@@ -380,6 +380,9 @@
 <string name="screen_off_fod_summary"> ScreenOff FOD </string>
 <string name="screenshot_sound_title"> Screenshot sound </string>
 <string name="screenshot_sound_summary"> Screenshot sound on/off </string>
+<string name="outdoor_idle_summary"> Use more aggresive idle for time when you walking etc</string>
+<string name="outdoor_idle_title"> Outdoor idle (Experimental) </string>
+
 
 
 </resources>
