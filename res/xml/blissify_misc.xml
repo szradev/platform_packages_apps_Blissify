@@ -41,7 +41,7 @@
             android:summary="@string/show_navbar_hint_summary"
             android:defaultValue="true" />
 
-    <com.bliss.support.preferences.SecureSettingSwitchPreference
+    <com.bliss.support.preferences.SystemSettingSwitchPreference
             android:key="screenshot_sound"
             android:title="@string/screenshot_sound_title"
             android:summary="@string/screenshot_sound_summary"
@@ -61,6 +61,11 @@
                 android:key="aggressive_standby_enabled"
                 android:title="@string/aggressive_standby_title"
                 android:summary="@string/aggressive_standby_summary"
+                android:defaultValue="false"/>
+        <com.bliss.support.preferences.GlobalSettingSwitchPreference
+                android:key="outdoor_idle_enabled"
+                android:title="@string/outdoor_idle_title"
+                android:summary="@string/outdoor_idle_summary"
                 android:defaultValue="false"/>
 
          <com.bliss.support.preferences.SystemSettingSwitchPreference
