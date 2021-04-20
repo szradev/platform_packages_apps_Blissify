@@ -393,4 +393,72 @@
     <string name="show_carrier_keyguard">Lockscreen</string>
     <string name="show_carrier_statusbar">Statusbar</string>
     <string name="show_carrier_enabled">Both</string>
+
+    <!-- Aggressive battery -->
+    <string name="aggressive_battery_title">Battery Tweaks</string>
+    <string name="aggressive_idle_title">Aggressive Idle</string>
+    <string name="aggressive_idle_summary">Enter device idle more frequently and wake up less</string>
+    <string name="aggressive_standby_title">Aggressive Standby</string>
+    <string name="aggressive_standby_summary">Restrict apps from running in the background</string>
+    <string name="aggressive_battery_saver_title">Auto-enable on battery saver</string>
+    <string name="aggressive_battery_saver_summary">Enable Aggressive Battery automatically when using battery saver</string>
+
+    <!-- Sensor block per-package -->
+    <string name="sensor_block_title">Sensor block per-package</string>
+    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
+
+
+    <!-- Navigation bar hint -->
+    <string name="show_navbar_hint_title">Navigation hint</string>
+    <string name="show_navbar_hint_summary">Show navigation hint bar at the bottom of the screen</string>
+
+    <!-- FOD animations -->
+    <string name="fod_recog_animation">Recognizing animation</string>
+    <string name="fod_recog_animation_summary">Shows an animation while reading your finger</string>
+    <string name="fod_recog_animation_picker">Animation style</string>
+    <string name="fod_recog_animation_picker_summary">Select which animation to show</string>
+    <string name="fod_recog_animation_effect_title">Recognizing animation effect</string>
+    <string name="fod_recog_animation_miui_normal">MIUI default</string>
+    <string name="fod_recog_animation_miui_aod">AOD</string>
+    <string name="fod_recog_animation_miui_aurora">Aurora</string>
+    <string name="fod_recog_animation_miui_light">Light</string>
+    <string name="fod_recog_animation_miui_pop">Pop</string>
+    <string name="fod_recog_animation_miui_pulse">Pulse</string>
+    <string name="fod_recog_animation_miui_pulse_white">Pulse (White)</string>
+    <string name="fod_recog_animation_miui_rhythm">Rhythm</string>
+    <string name="fod_recog_animation_op_cosmos">Cosmos</string>
+    <string name="fod_recog_animation_op_energy">Energy</string>
+    <string name="fod_recog_animation_op_mclaren">McLaren</string>
+    <string name="fod_recog_animation_op_ripple">Ripple</string>
+    <string name="fod_recog_animation_op_stripe">Stripe</string>
+    <string name="fod_recog_animation_op_wave">Wave</string>
+    <string name="fod_recog_animation_pureview_dna">DNA</string>
+    <string name="fod_recog_animation_pureview_future">Future</string>
+    <string name="fod_recog_animation_pureview_halo_ring">Halo Ring</string>
+    <string name="fod_recog_animation_pureview_molecular">Molecular</string>
+    <string name="fod_recog_animation_bluefirework">Blue Fireworks</string>
+    <string name="fod_recog_animation_coloros7_1">ColorOS7 1</string>
+    <string name="fod_recog_animation_coloros7_2">ColorOS7 2</string>
+    <string name="fod_miui_normal_recognizing_anim"> MIUI </string>
+<string name="fod_miui_aod_recognizing_anim"> MIUI AOD </string>
+<string name="fod_miui_light_recognizing_anim"> MIUI Light </string>
+<string name="fod_miui_pop_recognizing_anim"> MIUI Pop </string>
+<string name="fod_miui_pulse_recognizing_anim"> MIUI Pulse anim </string>
+<string name="fod_miui_pulse_recognizing_white_anim"> MIUI Pulse white </string>
+<string name="fod_miui_rhythm_recognizing_anim"> MIUI Rythm </string>
+<string name="fod_op_cosmos_recognizing_anim"> Cosmos </string>
+<string name="fod_op_mclaren_recognizing_anim"> Maclaren </string>
+<string name="fod_op_stripe_recognizing_anim"> OS Stripe </string>
+<string name="fod_op_wave_recognizing_anim"> Op Wave </string>
+<string name="fod_pureview_dna_recognizing_anim"> Dna </string>
+<string name="fod_pureview_future_recognizing_anim"> Future </string>
+<string name="fod_pureview_halo_ring_recognizing_anim"> Halo ring </string>
+<string name="fod_pureview_molecular_recognizing_anim"> Molecular </string>
+<string name="screen_off_fod_title"> ScreenOff FOD </string>
+<string name="screen_off_fod_summary"> ScreenOff FOD </string>
+<string name="screenshot_sound_title"> Screenshot sound </string>
+<string name="screenshot_sound_summary"> Screenshot sound on/off </string>
+<string name="outdoor_idle_summary"> Use more aggresive idle for time when you walking etc</string>
+<string name="outdoor_idle_title"> Outdoor idle (Experimental) </string>
+
 </resources>

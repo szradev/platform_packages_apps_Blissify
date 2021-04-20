@@ -265,6 +265,7 @@
         <item>@string/status_bar_battery_style_text</item>
         <item>@string/status_bar_battery_style_hidden</item>
     </string-array>
+
     <string-array name="status_bar_battery_style_values" translatable="false">
         <item>0</item>
         <item>1</item>
@@ -273,6 +274,37 @@
         <item>4</item>
         <item>5</item>
     </string-array>
+        <!-- FOD Recognizing fingerprint animations -->
+        <string-array name="fod_recog_animation_entries" translatable="false">
+              <item>@string/fod_miui_normal_recognizing_anim</item>
+              <item>@string/fod_miui_aod_recognizing_anim</item>
+              <item>@string/fod_miui_light_recognizing_anim</item>
+              <item>@string/fod_miui_pop_recognizing_anim</item>
+              <item>@string/fod_miui_pulse_recognizing_anim</item>
+              <item>@string/fod_miui_pulse_recognizing_white_anim</item>
+              <item>@string/fod_miui_rhythm_recognizing_anim</item>
+              <item>@string/fod_op_cosmos_recognizing_anim</item>
+              <item>@string/fod_op_mclaren_recognizing_anim</item>
+              <item>@string/fod_op_stripe_recognizing_anim</item>
+              <item>@string/fod_op_wave_recognizing_anim</item>
+              <item>@string/fod_pureview_dna_recognizing_anim</item>
+              <item>@string/fod_pureview_future_recognizing_anim</item>
+              <item>@string/fod_pureview_halo_ring_recognizing_anim</item>
+              <item>@string/fod_pureview_molecular_recognizing_anim</item>
+        </string-array>
+
+        <string-array name="fod_recog_animation_values" translatable="false">
+          <item>6</item>
+          <item>7</item>
+          <item>8</item>
+          <item>9</item>
+          <item>10</item>
+          <item>11</item>
+          <item>12</item>
+          <item>13</item>
+          <item>14</item>
+          <item>15</item>
+        </string-array>
 
     <!-- Battery bar -->
     <string-array name="battery_bar_entries">
@@ -318,6 +350,7 @@
         <item>@string/show_carrier_statusbar</item>
         <item>@string/show_carrier_enabled</item>
     </string-array>
+
     <string-array name="carrier_label_values" translatable="false">
         <item>0</item>
         <item>1</item>
